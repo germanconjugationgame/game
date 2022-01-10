@@ -83,7 +83,7 @@ let trivia = [
     {q: "Sie (formal) ___ das interessant", a: ["findet", "findest", "finden", "finde"], c: "finden"},
     {q: "Ihr Bruder ___ Deutsch.", a: ["sprecht", "spricht", "sprechen", "spreche"], c: "spricht"},
     {q: "Mein Bruder und ich ___ Fussbol.", a: ["spiele", "spielen", "spielt", "spielst"], c: "spielen"},
-    {q: "Ich ___.", a: ["schalfe", "schlife", "schlafen", "schlaft"], c: "schlafe"},
+    {q: "Ich ___.", a: ["schlafe", "schlife", "schlafen", "schlaft"], c: "schlafe"},
     {q: "Du ___ deine Hausaufgaben.", a: ["machst", "mache", "machen", "machest"], c: "machst"},
     {q: "___ du ein Apfel?", a: ["Hast", "Habst", "Haben", "Habe"], c: "Hast"},
     {q: "Wir ___ nicht.", a: ["wissen", "weissen", "weiss", "wisst"], c: "wissen"},
